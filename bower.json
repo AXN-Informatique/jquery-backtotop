@@ -1,0 +1,21 @@
+{
+  "name": "jquery-backtotop",
+  "homepage": "https://github.com/AXN-Informatique/jquery-backtotop",
+  "authors": [
+    "AXn Informatique"
+  ],
+  "description": "",
+  "main": "jquery.backtotop.js",
+  "keywords": [
+    "jquery",
+    "jquery-plugin"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
