@@ -1,23 +1,23 @@
-jQuery "back to top" pluggin
+jQuery "back to top" plugin
 ============================
 
 Usage
 -----
 
-Load the script :
+Load the script:
 
 ```html
 <script src="jquery.js"></script>
 <script src="jquery.backtotop.js"></script>
 ```
 
-Put a button :
+Put a button:
 
 ```html
 <button id="btn-back-to-top">Back to top</button>
 ```
 
-Position it :
+Position it:
 
 ```css
 #btn-back-to-top {
@@ -28,7 +28,7 @@ Position it :
 }
 ```
 
-Run the script :
+Run the script:
 
 ```javascript
 (function($) {
@@ -36,7 +36,7 @@ Run the script :
 })(jQuery);
 ```
 
-With options :
+With options:
 
 ```javascript
 (function($) {
