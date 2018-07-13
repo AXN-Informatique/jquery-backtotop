@@ -1,0 +1,22 @@
+{
+  "name": "jquery-backtotop",
+  "version": "1.0.1",
+  "description": "jQuery \"back to top\" plugin\r ============================",
+  "main": "jquery.backtotop.js",
+  "dependencies": {
+    "jquery": "^1.7 || ^2.0 || ^3.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AXN-Informatique/jquery-backtotop.git"
+  },
+  "author": "AXN Informatique",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AXN-Informatique/jquery-backtotop/issues"
+  },
+  "homepage": "https://github.com/AXN-Informatique/jquery-backtotop#readme"
+}
