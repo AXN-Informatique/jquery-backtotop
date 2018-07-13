@@ -1,6 +1,15 @@
 jQuery "back to top" plugin
 ============================
 
+Install
+-------
+
+With NPM run the following command:
+
+```sh
+npm install @axn/jquery-backtotop --save
+```
+
 Usage
 -----
 

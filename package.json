@@ -1,10 +1,10 @@
 {
-  "name": "jquery-backtotop",
+  "name": "@axn/jquery-backtotop",
   "version": "1.0.1",
-  "description": "jQuery \"back to top\" plugin\r ============================",
+  "description": "jQuery \"back to top\" plugin",
   "main": "jquery.backtotop.js",
   "dependencies": {
-    "jquery": "^1.7 || ^2.0 || ^3.1"
+    "jquery": "^3.2"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
