@@ -1,6 +1,7 @@
 {
   "name": "jquery-backtotop",
   "description": "jQuery \"back to top\" plugin",
+  "version": "1.0.4",
   "main": "jquery.backtotop.js",
   "dependencies": {
     "jquery": "^3.2"
